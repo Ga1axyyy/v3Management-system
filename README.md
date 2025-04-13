@@ -1,30 +1,3 @@
-
-
-Read file: vue3management/README.md
-
-Read file: vue3management/package.json
-
-Ran tool
-
-Read file: vue3management/src/main.js
-
-Ran tool
-
-Read file: vue3management/src/router/index.js
-
-Ran tool
-
-Ran tool
-
-Read file: vue3management/src/stores/index.js
-
-Ran tool
-
-Read file: vue3management/src/api/mockData/permission.js
-
-Ran tool
-
-Read file: vue3management/src/api/mockData/permisson.js
 # vue3management 项目介绍文档
 
 ## 项目概述
